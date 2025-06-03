@@ -89,3 +89,19 @@
 <p align="center">
   <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=gsanchit01&repo=gsanchit01&countColor=%237B1E7A" alt="Visitor count"/>
 </p>
+
+
+
+<h1>Hi 👋, I'm Aditya Mishra</h1>
+<p>A passionate frontend developer from </p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/https://x.com/Adi11tyaa" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/https://linkedin.com/in/aditya-mishra-CSE" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-mishra-CSE&show_icons=true&locale=en" alt="aditya-mishra-CSE" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-mishra-CSE&" alt="aditya-mishra-CSE" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-mishra-CSE&show_icons=true&locale=en&layout=compact" alt="aditya-mishra-CSE" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-mishra-CSE" alt="aditya-mishra-CSE" /></a></p>
