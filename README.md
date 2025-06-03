@@ -12,10 +12,11 @@
 
 ## 🎯 About Me
 
-- 🔭 Currently building cool things with **Python**, **React**, and **ML**.
-- 🌱 Learning **Cloud (GCP)**, **DevOps**, and **Scalability**.
-- 💬 Ask me about: **Web Dev**, **AI/ML**, **API Design**, **Data Pipelines**
-- 📫 Reach me at: [sanchitgupta0101@gmail.com](mailto:sanchitgupta0101@gmail.com)
+- 🔭 Currently building scalable full-stack applications with a strong focus on React.js and front-end technologies.
+- 🌱 Exploring advanced topics in performance optimization, responsive design, and system scalability.
+- 💬 Ask me about: React.js, Node.js, MongoDB, Agile workflows, and building user-centric UIs.
+- 🤝 Proven track record of effective collaboration, time management, and solving real-world technical challenges.
+- 📫 Reach me at: [adityaamishraaa11@gmail.com](mailto:adityaamishraaa11@gmail.com)
 - 🧠 Fun Fact: I love converting ideas into scalable tech solutions 🚀
 
 ---
@@ -50,26 +51,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gsanchit01&theme=onedark&row=1&column=7"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gsanchit01&show_icons=true&theme=onedark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gsanchit01&theme=onedark" />
-  <br/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsanchit01&layout=compact&theme=onedark" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
@@ -92,16 +73,40 @@
 
 
 
-<h1>Hi 👋, I'm Aditya Mishra</h1>
-<p>A passionate frontend developer from </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/Adi11tyaa" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://linkedin.com/in/aditya-mishra-CSE" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-mishra-CSE&show_icons=true&locale=en" alt="aditya-mishra-CSE" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-mishra-CSE&" alt="aditya-mishra-CSE" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-mishra-CSE&show_icons=true&locale=en&layout=compact" alt="aditya-mishra-CSE" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-mishra-CSE" alt="aditya-mishra-CSE" /></a></p>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-mishra-CSE) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Adi11tyaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaamishraaa11@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aditya-mishra-cse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aditya-mishra-cse&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-mishra-cse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aditya-mishra-cse&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aditya-mishra-cse&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aditya-mishra-cse&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
