@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Aditya Mishra 👋</h1>
 
 <p align="center">
-  <i>Software Developer | Full Stack Developer | MERN Stack Developer | SQL</i>
+  <i>Software Developer | Full Stack Developer | MERN Stack Developer | React.js | Express.js | Nodejs | MongoDB | SQL</i>
 </p>
 
 ---
