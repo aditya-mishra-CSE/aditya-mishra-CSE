@@ -2,10 +2,10 @@
   <img src="./banner.jpeg" alt="Aditya Mishra" width="80%"/>
 </p>
 
-<h1 align="center">Hi there, I'm Sanchit Gupta 👋</h1>
+<h1 align="center">Hi there, I'm Aditya Mishra 👋</h1>
 
 <p align="center">
-  <i>Software Developer | AI & ML Enthusiast | Open Source Contributor | Tech Blogger</i>
+  <i>Software Developer | Full Stack Developer | MERN Stack Developer | SQL</i>
 </p>
 
 ---
